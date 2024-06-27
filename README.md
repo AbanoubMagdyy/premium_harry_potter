@@ -1,16 +1,16 @@
-# premium_fivver_note_app
+# premium harry potter note app
+An app that allows you to live in the magical world of Harry Potter, create notes, and do many things.
 
-A new Flutter project.
+## Image
+![Google Play Panoramic Screenshots - Samsung S20 - Google Chrome 6_27_2024 7_41_57 PM (2)](https://github.com/AbanoubMagdyy/ss/assets/126911096/743bb59f-e9ea-453d-b115-ce5743bd8b01)
 
-## Getting Started
+### What's inside the app?
+- Create a note and edit it, adding pictures if you like
 
-This project is a starting point for a Flutter application.
+- Follow your birthday countdown with enthusiasm
 
-A few resources to get you started if this is your first Flutter project:
+- Search your notes quickly and easily
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add your notes to a character from the world of Harry Potter 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Write the things you love, such as books and movies, into lists customized just for you
